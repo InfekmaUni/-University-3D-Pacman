@@ -17,5 +17,5 @@ John Williamson - AI
 ### KNOWN ISSUES
 Horrible sound scratches when changing levels
 
-Models are missing normal and texture coords, therefore game is black if ran on a AMD CPU.
+Models are missing normal, therefore game is black if ran on a AMD CPU, not entirely sure why this is the case I assume that perhapse the nvidia GPU is able to determine normals for undefined geometries.
 
