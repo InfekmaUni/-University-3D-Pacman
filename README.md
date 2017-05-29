@@ -6,13 +6,13 @@ Component based engine developed in OpenGL using glsl shaders, systems and compo
 Pacman game developed in C#.
 
 ### Group 7 members:
-Alexander Dos Santos
+Alexander Dos Santos - Engine & Game
 
-Adam James Klein-sprokkelhorst
+Adam James Klein-sprokkelhorst - Game
 
-Jack Davis
+Jack Davis - Maze generation and blender model parser
 
-John Williamson
+John Williamson - AI
 
 ### KNOWN ISSUES
 Horrible sound scratches when changing levels
