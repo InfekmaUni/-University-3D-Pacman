@@ -19,3 +19,11 @@ Horrible sound scratches when changing levels
 
 Models are missing normal, therefore game is black if ran on a AMD CPU, not entirely sure why this is the case I assume that perhapse the nvidia GPU is able to determine normals for undefined geometries.
 
+# Main Menu
+![Main Menu](https://raw.githubusercontent.com/InfekmaUni/-University-3D-Pacman/master/Main_Menu.jpg)
+
+# Game Starting Zone
+![Start](https://raw.githubusercontent.com/InfekmaUni/-University-3D-Pacman/master/Start.jpg)
+
+# Gameplay - Confronting a Ghost
+![Confronting Ghost](https://raw.githubusercontent.com/InfekmaUni/-University-3D-Pacman/master/Gameplay_Confronting_Ghost.jpg)
