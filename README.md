@@ -1,4 +1,4 @@
-# -University-3D-Pacman
+# University-3D-Pacman
 3D Pacman Game and Component Engine Development set by Darren McKie of University of Hull
 
 Component based engine developed in OpenGL using glsl shaders, systems and components.
