@@ -7,11 +7,15 @@
 
 ### Group 7 members:
 Alexander Dos Santos
+
 Adam James Klein-sprokkelhorst
+
 Jack Davis
+
 John Williamson
 
 ### KNOWN ISSUES
 Horrible sound scratches when changing levels
+
 Models are missing normal and texture coords, therefore game is black if ran on a AMD CPU.
 
